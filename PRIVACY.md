@@ -1,8 +1,8 @@
-# Privacy Policy — sdvx-b50-discord-bot
+# Privacy Policy — sdvx-b50-image-bot
 
 _Effective date: September 5, 2026_
 
-This Privacy Policy explains what information **sdvx-b50-discord-bot** ("the Bot") collects, stores, and uses. By using the Bot, you agree to this policy.
+This Privacy Policy explains what information **sdvx-b50-image-bot** ("the Bot") collects, stores, and uses. By using the Bot, you agree to this policy.
 
 ## What the Bot does
 
@@ -57,4 +57,4 @@ We may update this policy from time to time; the current version always lives in
 
 ## Contact
 
-Questions or deletion requests: open an issue at **https://github.com/Pure-Fox/sdvx-b50-discord-bot/issues**.
+Questions or deletion requests: open an issue at **https://github.com/Pure-Fox/sdvx-b50-image-bot/issues**.
